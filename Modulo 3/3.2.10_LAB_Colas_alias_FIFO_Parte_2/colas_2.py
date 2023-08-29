@@ -1,5 +1,5 @@
 """
-colas_2.py
+colas_2.py -- Elaborado por Rui Duarte dos Santos Melim
 
 Aquí se va a extender ligeramente las capacidades de la clase Queue 
 que está en 3.2.9_LAB_Colas_alias_FIFO. Queremos que tenga un método 

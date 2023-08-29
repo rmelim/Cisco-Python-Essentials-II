@@ -1,5 +1,5 @@
 """
-digito_vida.py
+digito_vida.py -- Elaborado por Rui Duarte dos Santos Melim
 
 Algunos dicen que el Dígito de la Vida es un dígito calculado usando el cumpleaños de alguien. 
 Es simple: solo necesitas sumar todos los dígitos de la fecha. Si el resultado contiene más de 

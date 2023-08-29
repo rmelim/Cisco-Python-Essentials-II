@@ -1,5 +1,5 @@
 """
-colas.py
+colas.py -- Elaborado por Rui Duarte dos Santos Melim
 
 Como ya sabes, una pila es una estructura de datos que realiza el modelo LIFO 
 (último en entrar, primero en salir).

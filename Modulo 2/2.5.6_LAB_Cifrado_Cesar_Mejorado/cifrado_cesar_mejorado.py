@@ -1,5 +1,5 @@
 '''
-cifrado_cesar_mejorado.py
+cifrado_cesar_mejorado.py -- Elaborado por Rui Duarte dos Santos Melim
 
 El cifrado César original cambia cada carácter por otro: a se convierte en b, z se convierte en a, 
 y así sucesivamente. Hagámoslo un poco más difícil y permitamos que el valor desplazado provenga 

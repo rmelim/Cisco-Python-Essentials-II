@@ -1,5 +1,5 @@
 """
-display_led.py
+display_led.py -- Elaborado por Rui Duarte dos Santos Melim
 
 Escribir un programa que puede simular el funcionamiento de un display de siete 
 segmentos, aunque va a usar LEDs individuales en lugar de segmentos.

@@ -1,5 +1,5 @@
 """
-sudoku_test.py
+sudoku_test.py -- Elaborado por Rui Duarte dos Santos Melim
 
 Como probablemente sabes, Sudoku es un rompecabezas de colocación de números jugado en un 
 tablero de 9x9. El jugador tiene que llenar el tablero de una manera muy específica:

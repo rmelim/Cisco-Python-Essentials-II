@@ -1,5 +1,5 @@
 """
-palindromos.py
+palindromos.py -- Elaborado por Rui Duarte dos Santos Melim
 
 Un palíndromo es una palabra que se ve igual cuando se lee hacia adelante y hacia atrás. 
 Por ejemplo, "kayak" es un palíndromo, mientras que "leal" no lo es.

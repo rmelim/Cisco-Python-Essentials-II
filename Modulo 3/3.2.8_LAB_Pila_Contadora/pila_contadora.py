@@ -1,5 +1,5 @@
 """
-pila_contadora.py
+pila_contadora.py -- Elaborado por Rui Duarte dos Santos Melim
 
 Extender el comportamiento de la clase Stack de tal manera que la clase pueda contar 
 todos los elementos que son agregados (push) y quitados (pop).

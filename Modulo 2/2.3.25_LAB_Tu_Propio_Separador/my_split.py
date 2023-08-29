@@ -1,5 +1,5 @@
 '''
-my_split.py -- 
+my_split.py -- Elaborado por Rui Duarte dos Santos Melim
 
 Escribir tu propia función, que se comporte casi como el método original split(), por ejemplo:
 

@@ -1,5 +1,5 @@
 """
-encuentra_palabra.py
+encuentra_palabra.py -- Elaborado por Rui Duarte dos Santos Melim
 
 Vamos a jugar un juego. Te daremos dos cadenas: una es una palabra (por ejemplo, "dog") 
 y la segunda es una combinación de un grupo de caracteres.

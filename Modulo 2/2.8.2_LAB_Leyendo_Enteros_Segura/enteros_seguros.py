@@ -1,5 +1,5 @@
 """
-enteros_seguros.py
+enteros_seguros.py -- Elaborado por Rui Duarte dos Santos Melim
 
 FGunción capaz de ingresar valores enteros y verificar si están dentro de un rango 
 especificado.

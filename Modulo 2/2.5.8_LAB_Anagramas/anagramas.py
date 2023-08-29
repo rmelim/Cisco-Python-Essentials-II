@@ -1,5 +1,5 @@
 """
-anagramas.py
+anagramas.py -- Elaborado por Rui Duarte dos Santos Melim
 
 Un anagrama es una nueva palabra formada al reorganizar las letras de una palabra, usando 
 todas las letras originales exactamente una vez. Por ejemplo, las frases "rail safety" y 
